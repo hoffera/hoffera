@@ -4,7 +4,7 @@
 
 ![Hoffera GitHub stats](https://github-readme-stats.vercel.app/api?username=hoffera&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoffera&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoffera&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
